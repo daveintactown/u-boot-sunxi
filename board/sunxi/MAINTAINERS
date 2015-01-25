@@ -100,3 +100,8 @@ MELE M5 BOARD
 M:	Ian Campbell <ijc@hellion.org.uk>
 S:	Maintained
 F:	configs/Mele_M5_defconfig
+
+LINKSPRITE-PCDUINO3-NANO BOARD
+M:	Adam Sampson <ats@offog.org>
+S:	Maintained
+F:	configs/Linksprite_pcDuino3_Nano_defconfig
